@@ -1,0 +1,5 @@
+#import <Foundation/Foundation.h>
+@interface PodsDummy_Pods_Smart_FBA_Client_Portal_Smart_FBA_Client_PortalUITests : NSObject
+@end
+@implementation PodsDummy_Pods_Smart_FBA_Client_Portal_Smart_FBA_Client_PortalUITests
+@end
